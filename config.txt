@@ -1,2 +1,3 @@
 some config
 additional configuration
+some new config
